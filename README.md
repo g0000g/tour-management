@@ -1,22 +1,14 @@
 
 ## Tech Stack
 
-- Winform .NET Core
-- Entity Framework Core - Code First Approach
-- Generic Repository Pattern
+- .NET 6 Winform 
+- Entity Framework Core - Code First
 - SQL Server
 - LiveCharts
 
 
 ## Images
 
-![](https://raw.githubusercontent.com/nhipham9420/TourManagement/master/image/home.png)
-![](https://raw.githubusercontent.com/nhipham9420/TourManagement/master/image/tk.png)
-![](https://raw.githubusercontent.com/nhipham9420/TourManagement/master/image/tk_chart.png)
-
-
-## Features
-
-- Quản lý tour
-- Quản lý đoàn khách
-- Thống kê tình hình hoạt động
+![](https://raw.githubusercontent.com/g0000g/tour-management/dev/image/home.png)
+![](https://raw.githubusercontent.com/g0000g/tour-management/dev/image/tk.png)
+![](https://raw.githubusercontent.com/g0000g/tour-management/dev/image/tk_chart.png)
